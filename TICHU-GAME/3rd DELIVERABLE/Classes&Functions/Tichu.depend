@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1589068752 source:c:\users\marios tzamtzis\desktop\tichu\tichu\card.cpp
+	<sstream>
+	"card.h"
+
+1588782721 c:\users\marios tzamtzis\desktop\tichu\tichu\card.h
+	<string>
+
+1590086413 source:c:\users\marios tzamtzis\desktop\tichu\tichu\combination.cpp
+	"combination.h"
+
+1589136852 c:\users\marios tzamtzis\desktop\tichu\tichu\combination.h
+	<string>
+	"card.h"
+
+1589068778 source:c:\users\marios tzamtzis\desktop\tichu\tichu\deck.cpp
+	<algorithm>
+	"deck.h"
+
+1588723525 c:\users\marios tzamtzis\desktop\tichu\tichu\deck.h
+	"card.h"
+
+1589068797 source:c:\users\marios tzamtzis\desktop\tichu\tichu\game.cpp
+	<iostream>
+	"game.h"
+
+1588723277 c:\users\marios tzamtzis\desktop\tichu\tichu\game.h
+	"table.h"
+	"deck.h"
+	"player.h"
+
+1588723408 c:\users\marios tzamtzis\desktop\tichu\tichu\table.h
+	"combination.h"
+
+1589137184 c:\users\marios tzamtzis\desktop\tichu\tichu\player.h
+	<string>
+	"hand.h"
+
+1589068880 c:\users\marios tzamtzis\desktop\tichu\tichu\hand.h
+	<string>
+	"combination.h"
+
+1589068868 source:c:\users\marios tzamtzis\desktop\tichu\tichu\hand.cpp
+	<iostream>
+	"hand.h"
+	"card.h"
+	"combination.h"
+
+1589135819 source:c:\users\marios tzamtzis\desktop\tichu\tichu\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"table.h"
+	"deck.h"
+	"player.h"
+	"game.h"
+
+1590086426 source:c:\users\marios tzamtzis\desktop\tichu\tichu\player.cpp
+	"player.h"
+
+1589136592 source:c:\users\marios tzamtzis\desktop\tichu\tichu\playercombinations.cpp
+	<cstdlib>
+	<iostream>
+	"player.h"
+
+1589068943 source:c:\users\marios tzamtzis\desktop\tichu\tichu\table.cpp
+	"table.h"
+
