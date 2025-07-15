@@ -5,7 +5,7 @@ The assigned projects were in the following courses:
 - Data Structures(THESEUS&MINOTAUR-GAME)
 - Numerical Analysis
 - Probabilities & Statistics
-- Data Analysis(MATLAB)
+- Data Analysis(MATLAB & Python)
 - Digital Systems HW(Verilog)
 - Digital Image Processing(MATLAB)
 - Database(SQL)
